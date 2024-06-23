@@ -4,14 +4,12 @@
 <br>
 <img align="right" alt="Coding" width="400" margin-right ="30px"src="https://i.pinimg.com/originals/eb/8b/5d/eb8b5d390fd5b4d7d65dd1ef3f3e886f.gif">
 
-- 🌱 I’m currently learning : <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"></a> 
+- 🌱 T h i n g s  I'm. L e a r n i n g :<br> <br> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" margin-top="10px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"></a> 
  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a> 
  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
  
  <br>
 
-- 📫 How to reach me **abhaymaskey12@gmail.com**
-<br>
 
 - ⚡ Fun fact **I'm a chinky eyes sarcastic guy**
 

@@ -1,5 +1,5 @@
 ![MasterHead](https://i.pinimg.com/originals/ae/93/ef/ae93efea76cebbc5305f4904f33c6ac0.gif)
-<h1 align="center">Hi 👋, I'm Abhay</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=12B307&random=false&width=435&lines=Namaste+My+name+is+Abhay+)](https://git.io/typing-svg)
 <h3 align="center">Still figuring out what i want to do </h3>
 <br>
 <img align="right" alt="Coding" width="400" margin-right ="30px"src="https://i.pinimg.com/originals/eb/8b/5d/eb8b5d390fd5b4d7d65dd1ef3f3e886f.gif">

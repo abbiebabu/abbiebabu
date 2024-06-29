@@ -11,7 +11,7 @@
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://x.com/abbiebabu">
-<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
+<img src="https://img.shields.io/badge/-X?style=for-the-badge&logo=x&label=%20Twitter&labelColor=black&color=black">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/abhay-maskey-6aa406255/">
@@ -19,7 +19,7 @@
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.facebook.com/De.king.dragneel">
-<img src="https://img.shields.io/badge/Facebook-%231DA1F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">
+<img src="https://img.shields.io/badge/-Facebook?style=for-the-badge&logo=Facebook&label=%20Facebook&labelColor=%232C64F6&color=%232C64F6">
 </a>
  
 

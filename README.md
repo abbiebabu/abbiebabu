@@ -26,7 +26,7 @@
 </h2>
 <div class="container" style= "height: 399px;">
 
-<img align="right" height="405px" width="507px" src="https://camo.githubusercontent.com/6b7dc325b3ed0cba4cc23a69ab32271290d6911261bb18768d9b3dd70d8ae886/68747470733a2f2f692e70696e696d672e636f6d2f353634782f61632f64612f32322f61636461323231643231666330353934636232323139653935656361653633352e6a7067" style="height: 374px;width: 400px;max-width: 100%;margin: 10px;">
+<img align="right" height="405px" width="507px" src="https://camo.githubusercontent.com/6b7dc325b3ed0cba4cc23a69ab32271290d6911261bb18768d9b3dd70d8ae886/68747470733a2f2f692e70696e696d672e636f6d2f353634782f61632f64612f32322f61636461323231643231666330353934636232323139653935656361653633352e6a7067" style="height: 357px;width: 400px;max-width: 100%;margin: 10px;">
 
 <h3>My favorite tools and technologies ⚙️</h3> 
 

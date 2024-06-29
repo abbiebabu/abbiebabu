@@ -101,7 +101,5 @@
 </div>
 
 <div>
- <h1>
 <img align="center" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="width:2000px; margin-top: 5px;" data-target="animated-image.originalImage">
- </h1>
 </div>

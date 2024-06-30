@@ -26,7 +26,7 @@
 </h2>
 <div class="container" style= "height: 399px;">
 
-<img align="right"  src="https://i.pinimg.com/originals/02/02/4f/02024fae555d60b5722bc83023c9c598.gif" style="height: 371px;width: 507px;max-width: 100%;margin: 10px;">
+<img align="right"  src="https://i.pinimg.com/originals/02/02/4f/02024fae555d60b5722bc83023c9c598.gif" style="height: 355px;width: 436px;max-width: 100%;margin: 10px;">
 
 <h3>My favorite tools and technologies ⚙️</h3> 
 

@@ -101,4 +101,4 @@
 </div>
 
 <div>
-<img align="center" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="width: 2000px;max-width: 100%;display: inline-block;height: 224px;" data-target="animated-image.originalImage"></div>
+<img align="center" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="width: 2000px;max-width: 100%;display: inline-block; height:233px" data-target="animated-image.originalImage"></div>
